@@ -4,13 +4,13 @@
 int main()
 {
 	char str[50];
-	int c=0,i;
+	int c1=0,i;
     scanf("%[^\n]s",str);
     int l;
     l=strlen(str);
 	for (i = 0; i<l; i++)
 		if (str[i] != ' ')
 		c++;
-	printf("%d",c);
+	printf("%d",c1);
 	return 0;
 }
