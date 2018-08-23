@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.util.ArrayList;
-public class rev1 {
+ class Ideone {
 
      public static void main(String aa[]){
     int a,b,c;
